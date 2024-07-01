@@ -1,6 +1,8 @@
 # Contributors 
 - [wrkean](https://github.com/wrkean) ...and to the next one
+- [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
 - [Raghav Angra]
+- [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko] 
 -[Shreya]
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
@@ -8,8 +10,11 @@
 - [Sagar Singh](https://github.com/Singh-Sagar)**Long journey ahead**
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
+- [Wingyee He](https://github.com/KuKustudy) **This is Wingyee from Australia, lets GOOOO**
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
+- [Daniel Osojnik] (https://github.com/zabooz/)
 - [Flimmers]!!!!
+- [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
@@ -38,6 +43,7 @@ SahilDhavale
 - [Akil Makda](https://github.com/akilmakda) **Hello, I'm Akil From India** [Linkedin](https://www.linkedin.com/in/akilmakda/) **My First Contribution**
 - [Minseo Park](https://github.com/parkj12b) **Hello, I'm minseo from South Korea**
   [Vijay](https://github.com/vijayvignesh021) **Hai,I'm Vijay from India**
+  [Joel](https://github.com/Joeljoy712002) **Hello there,my fellow weebs**
 - [Javier Arroyo Rojas](https://github.com/javier25arroyo)[Linkedin](https://www.linkedin.com/in/javier-arroyo-rojas-268147226/)
 - [Eunbi-Sung]
 - [HeinKoKo]
@@ -478,6 +484,7 @@ vrushabhpatil48
 - [Yoon Thiri Aung](https://github.com/yoon-thiri04)
 - [NDC]
 - [Joel Burns]
+- [negraop](https://github.com/negraop) **Hello, World! 🌎👾**
 - [Priyal Shah]
 - [Suman Gaire] (https://github.com/sumangaire52)
 - [Bereket Sintayehu] (https://github.com/bereketsintayehu)
@@ -1543,6 +1550,7 @@ Pereira
 - Taylor
 - Monika M
 - 0x504a
+- [Gia Patel](https://github.com/giaptl)
 - Yohan Moon
 - Mee Too
 - Matt Jung
@@ -2905,6 +2913,7 @@ Gyanendra Thakur
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Mariusz Sobczak](https://github.com/SmoQ)
 - [Mayank Pratap Singh](https://github.com/04-mayank)
+- [Aishat Muhammed] (https:github.com/Aysha-py)
 - [Aryan Suvarna](https://github.com/AryanSuvarna)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
@@ -6006,3 +6015,5 @@ Hector
 - [lucas] (https://github.com/lucas-low/) `just having weird fun in github giant list at the end been working in gitlab for too long`
 - [WhiteLiu](https://github.com/LcenArthas) 😀
 - [m-kicherov](https://github.com/m-kicherov) **Hello World**
+- [kikki](https://github.com/kikki1992) **first contrubutions**
+- [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
