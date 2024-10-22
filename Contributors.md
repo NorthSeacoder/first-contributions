@@ -6,8 +6,11 @@
 - hello i am Evan (https://github.com/bz-e)
 - Hello!!! This is KARAN KUMAR NONIA (https://github.com/kkn2k19)
 - Hello OpenSouce World by Abhishek N N (https://github.com/abhi8f)
+- Hi I'm Oscar
+-  HI there!, I am Ain Azeem! ((https://github.com/iAinAzeem))
 - hello my name is riya
 - Salam, Abdul HAseeb here
+- Salam, I'm Syed Umar Shah
 - Hey! My name is Kush Patel! Here is a link to my github: (https://github.com/kush1314)
 - Hello.. I am Arindam Baidya. Happy to listing my name in the Contributors list.😊
 - Ram Ram ji!!! I am Abhinav Pareek 😄 (https://github.com/abhinavpareek655)
@@ -24,6 +27,7 @@ Hello World! I'm Oroitz Lago Ramos, I'm glad to start this new Open Source adven
 - This is the beta testing.
 - Hello I'm Suzzie{wanjicode}
 - Hi IM HUY!!!
+- HI, My name is Ron.
 - Hi I'm Fredylan (https://github.com/Code1Crusader)
 - Hey im mohammed sulthan from 2024 ,this is my first contribution and a message to my future self .[myGitHub](https://github.com/sulthan1866)
 - Hello i am Jzz.
@@ -82,7 +86,9 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi I am Alex!!!
 - Servus, I am Nico (https://github.com/Nico51528/)
 - Hello I'm Stan ;)
+- I am moon-deng-pen
 - Hi! [Francisco Proboste](https://www.linkedin.com/in/francisco-proboste/) from Chile 🇨🇱 🏞️
+- Hola! My name is Davidenkoo and I am excited to contribute to this repo! My lucky nr is 88
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
 [Renan Ferreira](https://github.com/renanf23) Jesus é o único caminho.
@@ -213,6 +219,7 @@ Oi eu sou o Lucas Rocha
 -Hello world this is MIhir Katakdhond
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
+- Hello it is Shamus.
 - Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
 - Hello! This is [Niharika](https://github.com/niharikah005)
 - Hey It's Namu
@@ -289,6 +296,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hi [vardaan]
 -Lavish Agarwal❤️
 -ghost8220 😀
+Hiiii everyone.... my name is Precious and this is my first open source contribution. I am so excited and proud to be doing this.
 -SummerInDecember was here
 -Hello I am Omar. I am making this contribution as practice. 
 -Hi everyone, Im contibutig to opensorce for the first time.
@@ -4072,6 +4080,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
  [Adam Honvedo](https://github.com/Homvi)
 -Tim Shurlock
 - [Blake Hill](https://github.com/Blake-Hill)<3
+- WL Hong: Hi from Hong Kong~ 
 - [Seo-Eun Kim] (https://github.com/SeoeunK)
 - [Luka D](https://github.com/Luka-D) Hoping to start contributing to open source projects
 - [hovhannisyangevorg](https://github.com/hovhannisyangevorg)
@@ -9053,6 +9062,7 @@ Didac Vilarnau
 - Hello I'm[BodeAyman](https://github.com/Bodeayman) I'm just learning new things and like web development so much
 - hi, i'm .[guruh46](https://github.com/guruh46) i'm just learn.
 - hi, i'm [wgrav](https://github.com/WGrav01), this isn't my first contributation to open source but i'm doing this to kick of getting serious about open source.
+- Hello, I'm Nikhil, excited to start contributing to the open source.
 - Hi, I'm [demitry](https://github.com/demitry), let's contribute.
 - Hello, I'm Matheus and it is my first contribution
 - Hi, I'm [allenlim] and I am from Malaysia.
@@ -9110,5 +9120,11 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm [Ganesh Derkar](https://github.com/18grd) from India, happy coding.... 
 - Hello I'm BitterBar.
 - Hi, I'm [Tomohiro](https://github.com/871tomohiro) from Japan, this is my first contribution.
+- Hi, I'm [Manuel Luvuvamo](https://github.com/manuelluvuvamo) from Angola...
 - Hi, I'm Pelletia (https://github.com/abpelletia) from Togo
 - Hi, this is Nezir (https://github.com/nazero3) from Syria. Nice to see you all :D
+- Hello, I'm Nissi vardhan [Nissivardhan] (https://github.com/Nissivardhan)
+- Hello everyone, this is [Simon Gomes](https://github.com/simongomes) from Bangladesh, just came here to play with teh contributions :D
+- Hello, I am Ariel 😃 [My Profile](https://github.com/H-Ariel)
+-Hello I am Virat [my frofile] (https://github.com/joeatyourmomshouse)
+-Hello, from USA, Blessings to all 
